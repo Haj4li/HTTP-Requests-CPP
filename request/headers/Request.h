@@ -3,6 +3,7 @@
 #include <wininet.h>
 #include <stdio.h>
 //  Coded by Haj4li
+// https://github.com/Haj4li/HTTP-Requests-CPP/
 #pragma comment (lib, "Wininet.lib")
 
 class Request
