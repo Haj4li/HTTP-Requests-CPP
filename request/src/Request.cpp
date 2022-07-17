@@ -1,5 +1,6 @@
 #include "Request.h"
 //  Coded by Haj4li
+// https://github.com/Haj4li/HTTP-Requests-CPP/
 void Request::Connect(const char* method, const char* url, const char* page,char* &buffer, const char headers[], DWORD headers_len, const char data[], DWORD data_len)
 {
 	const char agent[] = "Mozilla/5.0";
