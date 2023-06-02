@@ -3,7 +3,7 @@
 // https://github.com/Haj4li/HTTP-Requests-CPP/
 int main()
 {
-    const char headers[] = "Content-Type: application/x-www-form-urlencoded;Kos: yes";
+    const char headers[] = "Content-Type: application/x-www-form-urlencoded;";
     Request req;
     req.user_agent = "test";
    
